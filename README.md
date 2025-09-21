@@ -47,7 +47,8 @@ Windows Java JDK Installation:
 1. Download JDK from Oracle/AdoptOpenJDK.
 2. Run the installer, follow prompts.
 3. Set `JAVA_HOME` and update `PATH`.
-4. Verify:  `javac -version`
+4. Verify:  `javac -version`.
+   
    <img width="566" height="474" alt="Screenshot 2025-09-21 153411" src="https://github.com/user-attachments/assets/8b1f1880-39fb-418d-8de2-ce1b437e38c8" />
 
 
