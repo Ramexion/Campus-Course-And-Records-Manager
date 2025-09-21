@@ -1,0 +1,6 @@
+id,regNo,fullName,email,status,createdAt
+S11,REG011,Denise,denise@example.com,ACTIVE, 2025-09-21T15:51:22.103555100
+S10,REG010,Charlie,charlie@example.com,ACTIVE, 2025-09-21T15:51:22.103555100
+3600,6145,Aniket,rahul@gmail.com,INACTIVE, 2025-09-21T15:49:23.906544600
+S1,REG001,Alice,alice@example.com,ACTIVE, 2025-09-21T15:48:18.770470200
+S2,REG002,Bob,bob@example.com,ACTIVE, 2025-09-21T15:48:18.770470200
